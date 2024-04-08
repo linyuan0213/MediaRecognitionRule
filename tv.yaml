@@ -1,0 +1,27 @@
+229676:
+  - type: 1
+    replaced: 'Ookami to Koushinryou：'
+    replace: ''
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '狼与香辛料 行商邂逅贤狼 (2024)'
+
+  - type: 2
+    replaced: 'Spice and Wolf'
+    replace: '狼与香辛料'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '狼与香辛料 行商邂逅贤狼 (2024)'
+
+  - type: 2
+    replaced: 'Merchant Meets the Wise Wolf'
+    replace: '行商邂逅贤狼'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '狼与香辛料 行商邂逅贤狼 (2024)'

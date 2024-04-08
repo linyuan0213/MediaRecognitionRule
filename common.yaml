@@ -1,0 +1,18 @@
+common:
+  - type: 1
+    replaced: '[【\[](Fin|END)[】\]]|(?:|\s|\s-\s)(Fin|END)(?=\])|(?<=\d{1,2})(Fin|END)'
+    replace: ''
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '通用动漫识别'
+
+  - type: 
+    replaced: '（.*?）$'
+    replace: ''
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '屏蔽中文括号内容'
