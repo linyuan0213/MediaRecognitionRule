@@ -8,7 +8,7 @@ common:
     season: -1
     help: '通用动漫识别'
 
-  - type: 
+  - type: 1
     replaced: '（.*?）$'
     replace: ''
     front: ''
