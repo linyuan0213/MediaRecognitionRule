@@ -1,0 +1,9 @@
+634492:
+  - type: 2
+    replaced: 'Madame.+Web'
+    replace: '蜘蛛夫人'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '蜘蛛夫人：超感觉醒 (2024)'
